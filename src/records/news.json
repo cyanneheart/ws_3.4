@@ -1,0 +1,23 @@
+[
+    {
+        "userId": 1,
+        "id": 1,
+        "title": "Midterm Exam",
+        "body": "ISPSC Tagudin Midterm exam blabla",
+        "datecreated": "1-11-2024"
+    },
+    {
+        "userId": 1,
+        "id": 2,
+        "title": "Finals Exam",
+        "body": "ISPSC Tagudin Finals exam blabla",
+        "datecreated": "1-12-2024"
+    },
+    {
+        "userId": 1,
+        "id": 3,
+        "title": "2nd Sem Enrollment",
+        "body": "ISPSC Tagudin 2nd Sem Enrollment blabla",
+        "datecreated": "1-15-2024"
+    }
+]
